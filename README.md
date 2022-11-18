@@ -30,7 +30,7 @@
 * Instalación de manera fácil, rápida y sencilla de todas mis herramientas 🤩
 
 ## Instalación
-* Simplemente ejecute...
+* ...simplemente debe ejecutar...
 ```bash
 bash <(wget -qO- https://cutt.ly/juliocj7)
 ```
