@@ -1,0 +1,5 @@
+#Para PACKAGES firmados con una clave:
+deb [arch=all] https://Juliocj7.github.io/SimplyTheBest stable extras
+
+#Para PACKAGES no firmados con una clave:
+#deb [trusted=yes arch=all] https://Juliocj7.github.io/SimplyTheBest stable extras
