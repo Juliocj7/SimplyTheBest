@@ -1,15 +1,30 @@
+Package: juliocj7
+Version: 1.0
+Architecture: all
+Maintainer: @SimplyTheBest <Julio.simplythebest@gmail.com>
+Installed-Size: 100
+Depends: git, wget, curl, ncurses-utils
+Homepage: https://github.com/Juliocj7
+Description: Simply the major environment
+Filename: dists/stable/extras/binary-all/juliocj7_1.0_all.deb
+Size: 1808
+MD5Sum: eb4b6d7051dcf0268e517bf0a021a9ed
+SHA1: 4d768be94b096cb40256fd861007c92c586cb212
+SHA256: 4d24fb3be98b99ae9db50e238ef15bc0f13bbcfd13a855ac7e0477e9a9595e1c
+SHA512: b1cd4c6d5f548ec83697248a02c08e60f1a44ef3626abdc987aecfc6a778585b34a9e8f7751a11d831834ad31246b42b5270aa626d67a2d549b02dea0d4e8d8f
+
 Package: simplythebest
-Version: 6.6.6
+Version: 7.7
 Architecture: all
 Maintainer: @SimplyTheBest <Julio.simplythebest@gmail.com>
 Installed-Size: 1000
 Depends: ncurses-utils, proot, resolv-conf, curl, php, unzip
 Homepage: https://github.com/Juliocj7/simplythebest
 Description: Herramienta de prueba... by JulioCj7
-Filename: dists/stable/extras/binary-all/simplythebest_6.6.6_all.deb
-Size: 1028
-MD5Sum: 85f2c75ec8e4ba227c8024ae29398149
-SHA1: 6367bb287085f6c24b4bbb806a48209ba55a5010
-SHA256: 851d0fe2b2315328a4e33d13d7c0cef38683a51c759cc1ee057b07355ef6b67a
-SHA512: acdc4aac23afeab3d5160ddf3a39f98f29b0951f23765afe8bb5349eef121236d097dde4bbc7f9698f7214aedb47946f06bc523f2c852efe908e1ddae8601f41
+Filename: dists/stable/extras/binary-all/simplythebest_7.7_all.deb
+Size: 1132
+MD5Sum: 2f4d49d62fce9ace3c77a3998dca4e21
+SHA1: 5b219d18672f9657d89f47760d456b7fed8dd9f1
+SHA256: e0c4ee435950e43b6c94c0078edd1304801eca841e80a15c7993d69a56553214
+SHA512: 73411e6f97a2d49d842679e42c5e3015823fe060dc3a2bd9165cb7d7592f431bd90b213155d2c65a0aecaf771d82adddf34ef610fdad1d3a92b88a2cf57b9748
 
