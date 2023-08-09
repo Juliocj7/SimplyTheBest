@@ -23,18 +23,14 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20230516_071551_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/7b9f88a6-fa6c-4e5b-96fc-4952a0284cfa)
+
+---
 
 ## Termux Style :
-![Screenshot_20230516_071629_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/52203bd7-8a3d-4f4c-8e4b-9e9b5c9334f5)
 
 ---
 
-![Screenshot_20230516_072444_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/71a47eb6-52ac-45ea-8655-9221c5086135)
-
----
-
-![Screenshot_20230516_072016_Termux](https://github.com/Juliocj7/SimplyTheBestCj7/assets/81049859/7cb5c120-5f6a-44c7-8c53-2342db9affd0)
+## Info Fetch :
 
 ## SimplyTheBest :
 * Personaliza **Termux** con la **poderosa** shell ZSH.
