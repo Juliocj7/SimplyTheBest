@@ -45,7 +45,7 @@
 
 ## Instalación :
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
 
 ~~~
