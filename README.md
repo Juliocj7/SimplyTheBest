@@ -67,8 +67,8 @@ https://github.com/Juliocj7/UtilsCj7
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
 </p>
 
-> ###### `Pd: Porfavor informar cualquier error`
-> ###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
+###### `Pd: Porfavor informar cualquier error`
+###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
 
 <p align="center">
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
