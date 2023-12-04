@@ -45,7 +45,8 @@
 
 ## Instalación :
 
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
+> [!IMPORTANT]  
+> Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
 
 ~~~
 https://github.com/Juliocj7/UtilsCj7
@@ -66,11 +67,8 @@ https://github.com/Juliocj7/UtilsCj7
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
 </p>
 
-> [!IMPORTANT]  
->
->     Pd: Porfavor informar cualquier error
-> 
->     By: JulioCj7 +59179424937 😜
+> ###### `Pd: Porfavor informar cualquier error`
+> ###### `By: JulioCj7 +59179424937` :stuck_out_tongue_winking_eye:
 
 <p align="center">
 <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif"/>
