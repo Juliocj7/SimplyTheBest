@@ -1,0 +1,15 @@
+Package: juliocj7
+Version: 1.2
+Architecture: all
+Maintainer: irOOck <https://t.me/JulioCj7>
+Installed-Size: 100
+Depends: git, wget, curl, ncurses-utils
+Homepage: https://github.com/Juliocj7
+Description: Simply the major environment
+Filename: dists/termux/universal/binary-all/juliocj7_1.2_all.deb
+Size: 1856
+MD5Sum: dfa95c9bf25c9cc6405436dc6a54ccd6
+SHA1: f13456a30011dcda870f1c47aeae37e73a907170
+SHA256: 16d7108aa93696c937c52b85c1cc666cf16005ded27cae641e7838ef60ba1575
+SHA512: 2d317dd92efcfd849163da2d48b70af79e53c80290a5d78e7cf4e634e635b3baa63ba7a3a08117aa9cdc05270aa838e9a6bf1c1fb399dcd1b9add8e57736480e
+

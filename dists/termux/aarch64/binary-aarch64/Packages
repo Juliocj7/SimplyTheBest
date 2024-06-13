@@ -1,0 +1,34 @@
+Package: android-sdk-tools
+Version: 34.0.3
+Architecture: aarch64
+Maintainer: irOOck <https://t.me/JulioCj7>
+Installed-Size: 39997
+Depends: git
+Suggests: simplythebest
+Conflicts: android-tools, aapt, aapt2, aidl
+Homepage: https://developer.android.com
+Description: aapt aapt2 aidl dexdump split-select zipalign adb etc1tool make_f2fs dmtracedump fastboot make_f2fs_casefold e2fsdroid hprof-conv sload_f2fs
+Filename: dists/termux/aarch64/binary-aarch64/android-sdk-tools_34.0.3_aarch64.deb
+Size: 7498940
+MD5Sum: 8b350092c4548ce2ab8954c38e299c93
+SHA1: eb83f8e8618f024dfbd9cdcbe921377b76f5e1c7
+SHA256: fe9483bfede8101cc6865a9263aa2770930089dd925b8be57337a76d469ae06c
+SHA512: 5d8c41055c730ef447ee7d35f8ff469cf0632fef50838e3e069d12e9fab9b21445ae42daa1a1fa274562298f2097b802e9b8d74cba41e5ec72aec0cf5e2088e1
+
+Package: apktool-snapshot
+Version: 2.8.2-SNAPSHOT
+Architecture: aarch64
+Maintainer: irOOck <https://t.me/JulioCj7>
+Installed-Size: 9704
+Depends: git
+Suggests: simplythebest
+Conflicts: apktool
+Homepage: https://ibotpeaches.github.io/Apktool
+Description: A tool for reverse engineering android apk files
+Filename: dists/termux/aarch64/binary-aarch64/apktool-snapshot_2.8.2-SNAPSHOT_aarch64.deb
+Size: 9634484
+MD5Sum: 682d032ad7ebafbd7367cb823368d71b
+SHA1: 32cf427d11bab975a368dcaf73905d3d52c98dd4
+SHA256: ddb01f82a543cdd36c10a5fa5907802f27639645564d224c60b5bd3cd07cf04e
+SHA512: 8b09fc219080ff8ce7f384e0050c8135b4e6ad5d4fbabe5852bae7a85e65a05b93c611712880cdcf157245c72a6601d709330c498e896e0f462daf0ea375accb
+

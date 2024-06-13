@@ -1,0 +1,15 @@
+Package: simplythebest
+Version: 1.2
+Architecture: aarch64
+Maintainer: irOOck <https://t.me/JulioCj7>
+Installed-Size: 1000
+Depends: ncurses-utils, proot, resolv-conf, curl, php, unzip
+Homepage: https://github.com/Juliocj7/simplythebest
+Description: ¡ you captured the flag !
+Filename: dists/termux/universal/binary-aarch64/simplythebest_1.2_aarch64.deb
+Size: 5216
+MD5Sum: b8de910ff6d1977d039aa42b07453de4
+SHA1: f973ee938ea35f639ccb0827d6fd8157d4ba85e3
+SHA256: bf78c83f430805df838808e8357a6077ac00d988c53cb92793e61d1248da209d
+SHA512: f3b6882705009c293620d38fa8aa69803952c62b57d123f49c287a0b00498535ff4e4aa440794eb066dfa554dd8f0393d3878ca76676a60011b4241f9a9123b7
+
