@@ -52,9 +52,9 @@ ______________________________________________________
 ## Termux Style :
 ![1000360757](https://github.com/Juliocj7/SimplyTheBest/assets/81049859/81d04825-81ff-4a9f-b4e7-83ea429ebd86)
 
-|Termux|Styled|
+|Termux|Styled+|
 |:----:|:----:|
-|![1000360755](https://github.com/Juliocj7/SimplyTheBest/assets/81049859/62ee89f5-c0b9-404c-9493-e5ac9cb9ba56)|![1000360756](https://github.com/Juliocj7/SimplyTheBest/assets/81049859/9755c2ae-2c64-4040-a096-072f7cbb758c)|
+|![1000364639](https://github.com/Juliocj7/SimplyTheBest/assets/81049859/c998ec38-2ae3-4534-a567-2fcd5cdcc37a)|![1000364640](https://github.com/Juliocj7/SimplyTheBest/assets/81049859/2badffcc-64fa-4eaf-8652-702a7bee1cba)|
 
 ## SimplyTheBest :
 * Personaliza el entorno de `termux` con la poderosa shell `zsh`, con un estilo y diseño realmente `único`.
